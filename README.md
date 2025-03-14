@@ -1,4 +1,4 @@
-# The Ripple Effect of Interest Rates: A Data-Driven Analysis
+# The Ripple Effect: How Federal Funds Rate Influences the S&P 500, Inflation, and Employment
 
 ## Overview
 This project explores the impact of the Federal Funds Rate (FFR) on key economic indicators, including the S&P 500, inflation (CPI), consumer spending (PCE), and unemployment rates. Using historical data and visualizations, the analysis uncovers patterns and relationships that define economic cycles.
